@@ -16,7 +16,7 @@ It represents a monitoring architecture commonly used in modern DevOps environme
 
 # 🏗️ Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](architecture/architecture.png)
 
 ---
 
